@@ -1,0 +1,12 @@
+This is a simple nodejs application that uses HTML.
+
+
+usage:  1. deploy application (version 1.18) on AWS 
+
+
+	2. Append the given link with '/action=add&number1=8&number2=2'
+
+	  eg. Link : http://sample-env-2.qbkgysmj8a.us-west-2.elasticbeanstalk.com/action=multiply&number1=8&number2=9
+
+	3. action = add / subtract/ multiply / divide
+           number1 and number2 values can be changed.
